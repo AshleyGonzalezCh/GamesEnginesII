@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\interacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QTEManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QTEManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\QTEManager.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QTEManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lvl_01\\QTEManager.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:03:42.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickTimeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAuwL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:49:53.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interacciones.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\Interacciones.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interacciones.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\Interacciones.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interacciones.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T11:37:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\NPC.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lvl_01\\NPC.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:01:04.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NPCSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T09:59:28.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
