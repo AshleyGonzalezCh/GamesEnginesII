@@ -61,10 +61,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Interacciones.cs" />
+    <Compile Include="Assets\Scripts\ButtonSound.cs" />
     <Compile Include="Assets\Scripts\lvl_01\NPCSpawner.cs" />
     <Compile Include="Assets\Scripts\lvl_01\QTEManager.cs" />
+    <Compile Include="Assets\Scripts\ButtonSound2.cs" />
     <Compile Include="Assets\Scripts\lvl_01\NPC.cs" />
+    <Compile Include="Assets\Scripts\lvl_01\VideoController.cs" />
     <Compile Include="Assets\Scripts\MenuController.cs" />
+    <Compile Include="Assets\Scripts\ButtonSound1.cs" />
     <Compile Include="Assets\Scripts\Movimiento.cs" />
     <Compile Include="Assets\Scripts\MenuInGameController.cs" />
     <Compile Include="Assets\Scripts\lvl_01\QuickTimeEvent.cs" />

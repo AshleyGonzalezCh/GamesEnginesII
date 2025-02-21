@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 306284fd437e9184ba33ec9c8f338532
   - enabled: 1
+    path: "Assets/Scenes/Introducci\xF3n.unity"
+    guid: 9c5edf00a4a0aa044a34edafdedf9827
+  - enabled: 1
     path: Assets/Scenes/lvl_01.unity
     guid: 44d5950d905ba124bbf21b0f77abea47
   m_configObjects: {}

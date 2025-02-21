@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\lvl_01\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\menuingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\buttonsound2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsound2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\buttonsound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsound1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\npcspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\interacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\qtemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\menuingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menuingamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\quicktimeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +54,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\VideoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\VideoController.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\VideoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\lvl_01\\VideoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T22:23:18.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ButtonSound2.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound2.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSound2.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound2.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSound2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:28:13.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonSound1.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSound1.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSound1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:26:52.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonSound.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\ButtonSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:10:34.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:38:48.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MenuInGameController.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\MenuInGameController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MenuInGameController.cs",
@@ -46,12 +127,11 @@
               "RelativeToolTip": "Assets\\Scripts\\MenuInGameController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwDQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T17:45:16.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T17:45:16.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "QTEManager.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QTEManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\QTEManager.cs",
@@ -59,12 +139,11 @@
               "RelativeToolTip": "Assets\\Scripts\\lvl_01\\QTEManager.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAuwDYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T01:03:42.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T01:03:42.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "QuickTimeEvent.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\QuickTimeEvent.cs",
@@ -76,37 +155,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Interacciones.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\Interacciones.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Interacciones.cs",
               "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\Interacciones.cs",
               "RelativeToolTip": "Assets\\Scripts\\Interacciones.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T11:37:33.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NPC.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPC.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\NPC.cs",
               "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPC.cs",
               "RelativeToolTip": "Assets\\Scripts\\lvl_01\\NPC.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvyMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T10:01:04.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "NPCSpawner.cs",
               "DocumentMoniker": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
               "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
               "RelativeToolTip": "Assets\\Scripts\\lvl_01\\NPCSpawner.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAuwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T09:59:28.011Z"
             }
