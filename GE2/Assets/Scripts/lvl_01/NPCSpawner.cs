@@ -24,7 +24,20 @@ public class NPCSpawner : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         if (audioSource == null)
         {
-            Debug.LogError("No se encontró un AudioSource en el GameObject del NPCSpawner.");
+            audioSource = gameObject.AddComponent<AudioSource>();
+            Debug.LogWarning("No había AudioSource en NPCSpawner. Se ha agregado automáticamente.");
+        }
+
+        if (npcPrefab == null)
+        {
+            Debug.LogError("El prefab de NPC no está asignado en NPCSpawner.");
+            return;
+        }
+
+        if (spawnPoints == null || spawnPoints.Length == 0)
+        {
+            Debug.LogError("No hay spawn points asignados en NPCSpawner.");
+            return;
         }
 
         for (int i = 0; i < maxNPCs; i++)
@@ -42,8 +55,20 @@ public class NPCSpawner : MonoBehaviour
     {
         if (!spawningEnabled || activeNPCs.Count >= maxNPCs) return;
 
+        if (spawnPoints == null || spawnPoints.Length == 0)
+        {
+            Debug.LogError("No hay puntos de spawn disponibles.");
+            return;
+        }
+
         List<Transform> availableSpawns = new List<Transform>(spawnPoints);
         if (lastUsedSpawnPoint != null) availableSpawns.Remove(lastUsedSpawnPoint);
+
+        if (availableSpawns.Count == 0)
+        {
+            Debug.LogWarning("No hay puntos de spawn disponibles.");
+            return;
+        }
 
         Transform selectedSpawn = availableSpawns[Random.Range(0, availableSpawns.Count)];
 
@@ -56,13 +81,28 @@ public class NPCSpawner : MonoBehaviour
             audioSource.PlayOneShot(spawnSound);
         }
 
+        Canvas canvas = FindObjectOfType<Canvas>();
+        if (canvas == null)
+        {
+            Debug.LogError("No se encontró un Canvas en la escena.");
+            return;
+        }
+
         if (npcMarkerPrefab != null)
         {
-            Image marker = Instantiate(npcMarkerPrefab, FindObjectOfType<Canvas>().transform);
+            Image marker = Instantiate(npcMarkerPrefab, canvas.transform);
             npcMarkers[npc] = marker;
         }
 
-        npc.GetComponent<NPC>().onInteract += () => HandleNPCInteraction(npc);
+        NPC npcScript = npc.GetComponent<NPC>();
+        if (npcScript != null)
+        {
+            npcScript.onInteract += () => HandleNPCInteraction(npc);
+        }
+        else
+        {
+            Debug.LogError("El prefab de NPC no tiene un script NPC adjunto.");
+        }
     }
 
     void HandleNPCInteraction(GameObject npc)

@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lvl_01\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|c:\\users\\msit\\documents\\escuela\\games engines\\ge2\\assets\\scripts\\buttonsound2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\assets\\scripts\\buttonsound2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{155DF5B2-CF23-56ED-9453-86AA7F61B3F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonsound2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\lvl_01\\VideoController.cs",
               "ToolTip": "C:\\Users\\MSIT\\Documents\\Escuela\\Games Engines\\GE2\\Assets\\Scripts\\lvl_01\\VideoController.cs",
               "RelativeToolTip": "Assets\\Scripts\\lvl_01\\VideoController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T22:23:18.08Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ButtonSound2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T20:28:13.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T20:28:13.771Z"
             },
             {
               "$type": "Document",
