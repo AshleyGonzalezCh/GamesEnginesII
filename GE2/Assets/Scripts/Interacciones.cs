@@ -33,7 +33,7 @@ public class Interacciones : MonoBehaviour
     private void Update()
     {
         // Activar el QTE solo si se presiona la tecla E
-        if (isNearNPC && Input.GetKeyDown(KeyCode.E) && currentNPC != null)
+        if (isNearNPC && OVRInput.GetDown(OVRInput.Button.Two, OVRInput.Controller.RTouch) && currentNPC != null)
         {
             interactText.gameObject.SetActive(false); // Ocultar texto de interacción
             currentNPC.StartQTE(); // Inicia el QTE del NPC

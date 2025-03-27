@@ -59,7 +59,7 @@ public class QuickTimeEvent : MonoBehaviour
                 if (skillCheckBar.value <= 0f) movingRight = true;
             }
 
-            if (Input.GetMouseButtonDown(0))
+            if (OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger, OVRInput.Controller.RTouch))
             {
                 AttemptSkillCheck();
             }
